@@ -16,16 +16,16 @@ export function EngagementProcessSection() {
           <div className="mb-10 lg:mb-12">
             <h2 className="text-[32px] md:text-[40px] lg:text-[52px] leading-[1.15] tracking-[-0.02em] text-[#1a1a1a]">
               <span className="block">
-                <span className="text-[#3858FF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">System</span> Audit
+                <span className="text-[#3858FF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Diagnose</span> What's Broken.
               </span>
               <span className="block">
-                <span className="text-[#D540FF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Growth</span> Architecture
+                <span className="text-[#D540FF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Architect</span> What Works.
               </span>
               <span className="block">
-                <span className="text-[#7F4EFF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Execution</span> Roadmap
+                <span className="text-[#7F4EFF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Execute</span> With Precision.
               </span>
               <span className="block">
-                <span className="text-[#3858FF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Scale</span> and Optimization
+                <span className="text-[#3858FF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Scale</span> What's Proven.
               </span>
             </h2>
           </div>
@@ -34,7 +34,7 @@ export function EngagementProcessSection() {
           
           {/* Subline */}
           <p className="text-2xl md:text-3xl lg:text-4xl leading-relaxed max-w-5xl mx-auto text-center text-[#3f3f46]">
-            A <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">clear path</span> from first audit to scaled delivery.
+            A  <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">structured engagement </span> built to move from clarity to compounding results
           </p>
         </motion.div>
       </div>

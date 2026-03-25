@@ -5,28 +5,28 @@ import { PrimaryButton } from '@/app/components/buttons/PrimaryButton';
 const systems = [
   {
     number: '01',
-    title: 'Search Authority',
-    description: 'Own visibility across Google and AI discovery'
+    title: 'Search Dominance',
+    description: 'Own the search results your buyers actually use'
   },
   {
     number: '02',
-    title: 'Demand Capture',
-    description: 'Convert high intent into pipeline'
+    title: 'Intent Capture',
+    description: 'Convert commercial intent into a qualified pipeline'
   },
   {
     number: '03',
-    title: 'Narrative Control',
-    description: 'Shape what the market believes about you'
+    title: 'Market Positioning',
+    description: 'Shape what markets believe about your brand'
   },
   {
     number: '04',
-    title: 'Automation',
-    description: 'Scale execution without chaos'
+    title: 'Execution Automation',
+    description: 'Scale output without scaling headcount'
   },
   {
     number: '05',
     title: 'Conversion Architecture',
-    description: 'Turn traffic into revenue systematically'
+    description: 'Turn traffic into recurring, predictable revenue'
   }
 ];
 
@@ -83,22 +83,22 @@ export function SystemThinkingSection() {
           className="text-center mb-6 lg:mb-8"
         >
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            <span className="text-black">Growth Is a </span>
-            <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">Stack</span>
+            <span className="text-black">The Stack </span>
+            <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">African Brands </span>
             <br />
-            <span className="text-black">Not a Tactic</span>
+            <span className="text-black">Actually Need.</span>
           </h2>
           
           {/* Supporting text */}
           <p className="text-[22px] md:text-[24px] lg:text-[26px] leading-[1.5] max-w-[700px] mx-auto mb-4">
-            <span className="text-black">The </span>
+            <span className="text-black">What We </span>
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">Stack</span>
-            <span className="text-black"> We Deploy Across </span>
+            <span className="text-black"> Deploy Across  </span>
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">Every Market</span>
             <span className="text-black">:</span>
           </p>
           <p className="text-[18px] md:text-[20px] lg:text-[22px] leading-[1.5] text-black/70 font-semibold max-w-[800px] mx-auto">
-            Every engagement is built as a compounding system, not a one-off service.
+            Five interconnected layers. One compounding strategy. Built for the best marketing agency in Zambia to deploy at scale.
           </p>
         </motion.div>
 

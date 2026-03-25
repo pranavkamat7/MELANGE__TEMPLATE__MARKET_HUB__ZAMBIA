@@ -2,23 +2,23 @@ import { motion } from 'motion/react';
 
 const outcomes = [
   {
-    title: 'Rankings Compound',
-    description: 'Across Google and AI discovery layers',
+    title: 'Organic Visibility Grows',
+    description: 'Every article, every backlink, every optimised page strengthens your position in the search landscape.',
     gradient: 'from-[#D540FF] to-[#7F4EFF]'
   },
   {
-    title: 'Ads Become Cheaper',
-    description: 'As authority and intent stack over time',
+    title: 'Media Gets More Efficient',
+    description: 'As authority grows, your cost-per-lead falls, making every kwacha of ad spend work harder month on month.',
     gradient: 'from-[#7F4EFF] to-[#3858FF]'
   },
   {
-    title: 'Trust Removes Friction',
-    description: 'Premium positioning accelerates decisions',
+    title: 'Credibility Closes Deals',
+    description: "The best digital marketing agency services don't just drive traffic, it builds the brand trust that makes conversion inevitable.",
     gradient: 'from-[#D540FF] to-[#3858FF]'
   },
   {
-    title: 'Conversion Becomes Systematic',
-    description: 'Traffic turns into predictable revenue',
+    title: 'Every Lead Counts',
+    description: 'The right architecture turns visitors into pipeline, consistently and measurably.',
     gradient: 'from-[#3858FF] to-[#7F4EFF]'
   }
 ];
@@ -40,12 +40,12 @@ export function WhyItWorksSection() {
           className="text-center mb-16 lg:mb-24"
         >
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-4 leading-tight">
-            <span className="text-white">Why It </span>
-            <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">Works</span>
+            <span className="text-white">The Compounding </span>
+            <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">Advantage.</span>
           </h2>
           
           <p className="text-[18px] md:text-[20px] lg:text-[22px] leading-[1.5] text-white/90 font-semibold max-w-[800px] mx-auto">
-            When these systems compound together, growth becomes inevitable, not fragile.
+            Each layer strengthens the next. The longer the system runs across your African markets, the stronger it becomes.
           </p>
         </motion.div>
 

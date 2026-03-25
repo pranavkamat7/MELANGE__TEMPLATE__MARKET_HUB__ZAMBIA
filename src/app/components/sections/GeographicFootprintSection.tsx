@@ -5,7 +5,7 @@ type Region =
   | "United Kingdom"
   | "United Arab Emirates"
   | "Singapore"
-  | "Africa";
+  | "Zambia";
 
 type RegionLinks = Record<Region, string>;
 
@@ -15,14 +15,14 @@ export function GeographicFootprintSection(): JSX.Element {
     "United Kingdom",
     "United Arab Emirates",
     "Singapore",
-    "Africa",
+    "Zambia",
   ];
 
   const regionLinks: RegionLinks = {
     India: "https://melangedigital.co/india",
     "United Arab Emirates": "https://melangedigital.co/uae",
     "United Kingdom": "https://melangedigital.co/uk",
-    Africa: "https://melangedigital.co/zambia",
+    Zambia: "https://melangedigital.co/zambia",
     Singapore: "https://melangedigital.co/singapore",
   };
 

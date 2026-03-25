@@ -106,10 +106,10 @@ export function LeadershipSection() {
           >
             {/* Headline */}
             <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-[1.1] tracking-tight">
-              Regional Operator
+              
               <br />
               <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-                On the Ground
+                Meet
               </span>
             </h2>
 
@@ -120,13 +120,12 @@ export function LeadershipSection() {
 
             {/* Role */}
             <p className="text-lg md:text-xl text-[#94A3B8]">
-              Regional Director, Zambia
+              Regional Director, Africa
             </p>
 
             {/* Updated description sentence */}
             <p className="text-xl md:text-2xl text-white/70 leading-relaxed max-w-xl mx-auto lg:mx-0">
-              Leading execution in the Africa, backed by infrastructure designed
-              to scale globally.
+              Turning marketing investment into commercial outcomes to build competitive advantages in Britain's demanding market.
             </p>
 
             {/* CTA Button - gradient outline with soft glow hover */}

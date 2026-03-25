@@ -18,10 +18,10 @@ export function ManifestoSection() {
                 <span className="text-[#3858FF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Budgets</span> are limited.
               </span>
               <span className="block">
-                <span className="text-[#D540FF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Platforms</span> decay.
+                <span className="text-[#D540FF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Guesswork</span> is expensive.
               </span>
               <span className="block">
-                <span className="text-[#7F4EFF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Algorithms</span> mutate.
+                <span className="text-[#7F4EFF] text-[44px] md:text-[56px] lg:text-[72px] font-bold">Competition</span> is rising.
               </span>
             </h2>
           </div>
@@ -29,7 +29,7 @@ export function ManifestoSection() {
           <GradientDivider className="mb-8 lg:mb-10" />
           
           <p className="text-2xl md:text-3xl lg:text-4xl leading-relaxed max-w-5xl mx-auto text-center text-[#3f3f46]">
-            We build the best <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">digital marketing agency</span> services in Zambia, that deliver measurable outcomes and hold up when markets shift.
+            We design growth <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">infrastructure for brands </span> that is built to outlast budget pressure, platform changes, and market uncertainty.
           </p>
         </motion.div>
       </div>

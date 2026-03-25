@@ -65,11 +65,11 @@ export function AutomationControlSection() {
         <div className="mb-12 lg:mb-16">
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-8 leading-tight">
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Growth Without Chaos
+              Intelligent Systems. Predictable Revenue.
             </span>
           </h2>
           <p className="text-2xl md:text-3xl lg:text-4xl text-[#94A3B8] max-w-5xl mx-auto leading-relaxed">
-            CRM systems, outbound automation, lead orchestration, and revenue pipelines designed for clarity and control.
+            CRM, revenue pipelines, and outbound automation are designed to help firms grow quickly without the operational chaos that stifles progress.
           </p>
         </div>
 
@@ -103,7 +103,7 @@ export function AutomationControlSection() {
             {/* Bridge Line - Inside container at top */}
             <div className="mb-12 text-center relative z-10">
               <p className="text-sm md:text-base lg:text-lg text-white/60 font-light tracking-[0.3em] uppercase max-w-4xl mx-auto leading-[1.8] spectral-drift-diagonal">
-                Execution stays clean. Leads never fall through cracks.
+                We build the operational infrastructure that closes the gap.
               </p>
             </div>
 
@@ -448,7 +448,7 @@ export function AutomationControlSection() {
             {/* Bridge Line - Inside container at top */}
             <div className="mb-8 text-center relative z-10">
               <p className="text-sm md:text-base text-white/60 font-light tracking-[0.3em] uppercase max-w-4xl mx-auto leading-[1.8] spectral-drift-diagonal">
-                Execution stays clean. Leads never fall through cracks.
+                We build the operational infrastructure that closes the gap.
               </p>
             </div>
 

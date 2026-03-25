@@ -4,20 +4,20 @@ import { MicroLabel } from '@/app/components/ui/MicroLabel';
 
 const heroFeature = {
   title: 'Brand Films',
-  outcome: 'Clients commit faster when they see themselves in premium narrative.',
-  description: 'Cinematic storytelling engineered for luxury perception and high-ticket positioning.',
+  outcome: 'Clients commit faster when they see themselves in a story that matches their ambition.',
+  description: 'Cinematic brand films produced for African businesses, ready to compete at the highest level, positioning you as the brand the market looks up to.',
 };
 
 const supportingFeatures = [
   {
-    title: 'Short-Form Systems',
-    outcome: 'Authority at volume without dilution.',
-    description: 'Controlled high-output content that maintains brand integrity across all touchpoints.',
+    title: 'High-Frequency Creative',
+    outcome: 'Structured short-form systems that maintain message integrity',
+    description: 'Consistent brand authority across LinkedIn, Facebook, and African digital platforms without the dilution of high-volume posting.',
   },
   {
     title: 'Market Authority Layer',
-    outcome: 'Luxury positioning baked into every frame.',
-    description: 'Visual systems designed to dominate premium market perception from first impression.',
+    outcome: 'Premium visual positioning as a leader from the first impression.',
+    description: 'Visual systems designed to make your African brand look like the obvious market leader before a single word of copy is read.',
   }
 ];
 
@@ -53,17 +53,17 @@ export function VisualDominanceSection() {
           className="text-center mb-6 lg:mb-8"
         >
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-8 leading-tight">
-            If You Don't Look Premium
+            Creatives Should Convert,
             <br />
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              You Don't Convert
+              Not Just Impress.
             </span>
           </h2>
           
           {/* Bridge Line */}
           <div className="mb-12 lg:mb-16">
             <p className="text-sm md:text-base lg:text-lg text-white/60 font-light tracking-[0.3em] uppercase max-w-4xl mx-auto leading-[1.8] spectral-drift-diagonal">
-              Perception is conversion. Visual authority closes before sales does.
+              IN FASTEST-GROWING MARKETS, FIRST IMPRESSIONS DETERMINE COMMERCIAL OUTCOMES.
             </p>
           </div>
         </motion.div>

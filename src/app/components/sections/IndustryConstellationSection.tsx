@@ -43,10 +43,10 @@ export function IndustryConstellationSection() {
         {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            Built for Industries
+            Built for the Sectors 
             <br />
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Where Authority Drives Revenue
+              That Are Defining the Continent.
             </span>
           </h2>
           <p className="text-xl lg:text-2xl text-[#D4DBE8] max-w-4xl mx-auto leading-relaxed mb-12">

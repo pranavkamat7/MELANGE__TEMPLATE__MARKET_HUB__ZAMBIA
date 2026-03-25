@@ -10,14 +10,15 @@ export function FinalStatementSection() {
           viewport={{ once: true }}
         >
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-8 leading-tight">
-            If You're Competing on Noise
+            Best Brands Don't Shout.
+
             <br />
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              You've Already Lost
+              They Compound.
             </span>
           </h2>
           <p className="text-2xl md:text-3xl lg:text-4xl text-[#3f3f46] max-w-5xl mx-auto leading-relaxed">
-            We help brands compete on <span className="bg-gradient-to-r from-[#D540FF] to-[#7F4EFF] bg-clip-text text-transparent font-medium">structure</span>, <span className="bg-gradient-to-r from-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">intelligence</span>, and <span className="bg-gradient-to-r from-[#3858FF] to-[#D540FF] bg-clip-text text-transparent font-medium">inevitability</span>.
+            We help brands stop competing on volume and start compounding on <span className="bg-gradient-to-r from-[#D540FF] to-[#7F4EFF] bg-clip-text text-transparent font-medium">authority</span>, <span className="bg-gradient-to-r from-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">structure</span>, and <span className="bg-gradient-to-r from-[#3858FF] to-[#D540FF] bg-clip-text text-transparent font-medium">intelligent systems.</span>.
           </p>
         </motion.div>
       </div>

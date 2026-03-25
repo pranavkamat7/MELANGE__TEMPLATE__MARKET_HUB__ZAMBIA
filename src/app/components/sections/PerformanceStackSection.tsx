@@ -72,9 +72,9 @@ export function PerformanceStackSection() {
             transition={{ duration: 0.7 }}
             className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight text-[#0B0B12] mb-6"
           >
-            Performance Without{' '}
+            Paid Media Built for {' '}
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Fragility
+              Acquisition Economics.
             </span>
           </motion.h2>
           
@@ -86,7 +86,7 @@ export function PerformanceStackSection() {
             transition={{ duration: 0.7, delay: 0.1 }}
             className="text-2xl md:text-3xl font-medium text-[#0B0B12] mb-4"
           >
-            Google Ads and Demand Capture That Doesn't Break.
+            Return on Ad Spend That Justifies Itself.
           </motion.h3>
           
           {/* Supporting Sentence */}
@@ -97,7 +97,7 @@ export function PerformanceStackSection() {
             transition={{ duration: 0.7, delay: 0.2 }}
             className="text-[18px] md:text-[20px] leading-[1.6] text-[#0B0B12]/50 max-w-[700px] mx-auto"
           >
-            We build high-intent funnel architecture that captures demand fast and stays profitable as algorithms shift.
+            We architect Google Ads campaigns for businesses that deliver qualified leads at sustainable costs with complete visibility into every penny spent.
           </motion.p>
         </div>
 

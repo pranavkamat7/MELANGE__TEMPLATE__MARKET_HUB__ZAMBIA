@@ -10,17 +10,17 @@ export function MarketAdaptationSection() {
           viewport={{ once: true }}
         >
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-8 leading-tight">
-            One Engine
+            One Engine,
             <br />
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Many Markets
+              Globally Scaled.
             </span>
           </h2>
           <p className="text-2xl md:text-3xl lg:text-4xl text-[#94A3B8] max-w-5xl mx-auto leading-relaxed">
-            Language nuance, cultural sensitivity, and market intelligence baked into every authority system we deploy.
+            Local market intelligence and cultural nuance built into every digital marketing Zambia system we deploy.
           </p>
           <p className="text-2xl md:text-3xl lg:text-4xl text-[#3f3f46] max-w-5xl mx-auto mt-8 leading-relaxed">
-            Execution is always <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">local</span>. The <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">infrastructure</span> stays <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">global</span>.
+            The strategy  <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">is local</span>. The <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">intelligence</span> is  <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent font-medium">global</span>.
           </p>
         </motion.div>
       </div>

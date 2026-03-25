@@ -155,19 +155,21 @@ export function AnswerEngineSection() {
             className="space-y-6"
           >
             <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
-              <span className="text-white">Search Is No Longer Google</span>
+              <span className="text-white">Your Customers Are Asking AI.
+
+            </span>
               <br />
               <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-                It's Everywhere
+                Are You the Answer They Receive?
               </span>
             </h2>
             
             <p className="text-[18px] md:text-[20px] lg:text-[22px] leading-[1.5] text-white/90 font-semibold max-w-[800px]">
-              Your brand must become the default answer, not just another result.
+              The future is owned by the brands that own AI discovery in the fastest-growing digital markets.
             </p>
             
             <p className="text-[20px] md:text-[24px] lg:text-[26px] leading-[1.5] text-[#D4DBE8] max-w-[580px]">
-              We engineer Answer Engine Optimization across AI search, voice, discovery, and machine-driven intent layers, so your brand becomes the default answer everywhere customers look.
+               We engineer AI visibility for brands, positioning you as the cited, trusted answer across every discovery platform your buyers use.
             </p>
           </motion.div>
 

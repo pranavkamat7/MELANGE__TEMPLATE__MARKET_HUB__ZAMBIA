@@ -110,14 +110,14 @@ export function LusakaCitySection() {
           className="text-center mb-12"
         >
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-4 leading-tight">
-            <span className="text-white">Digital Marketing </span>
+            <span className="text-white">Marketing  </span>
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Zambia
+              for Africa
             </span>
             <span className="text-white"> Brands</span>
           </h2>
           <p className="text-xl lg:text-2xl text-[#D4DBE8] max-w-3xl mx-auto leading-relaxed">
-            We help companies in Zambia to grow through SEO, Google Ads, social media, AI content, and conversion systems, engineered for serious markets across the Zambia.
+            We help Lusaka businesses grow through SEO, Google Ads, social media, AI content and conversion systems, built for Africa’s most competitive sectors.
           </p>
         </motion.div>
 
@@ -137,20 +137,15 @@ export function LusakaCitySection() {
             {/* Card Content */}
             <div className="relative z-10">
               <h3 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 md:mb-6 leading-tight">
-                <span className="text-white">Zambia Marketing Agency</span>
+                <span className="text-white">Africa Digital </span>
                 <br />
                 <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-                  Services
+                  Marketing Agency.
                 </span>
               </h3>
 
               <p className="text-base md:text-lg lg:text-xl text-[#D4DBE8] mb-8 md:mb-10 leading-relaxed max-w-3xl">
-                Mélange Digital supports Lusaka businesses with full-spectrum
-                marketing, SEO, paid search, social media strategy, AI-driven
-                content, and high-converting web experiences. From visibility to
-                demand capture, we build structured growth systems designed to
-                help brands compete and win in Zambia's most competitive
-                industries.
+                Mélange Digital delivers full-spectrum digital marketing for African businesses, from technical SEO and Google Ads to AI-driven content and conversion systems, built for the pace of Africa's growth markets.
               </p>
 
               {/* DESKTOP: Service Grid Selector (HOVER-BASED) */}

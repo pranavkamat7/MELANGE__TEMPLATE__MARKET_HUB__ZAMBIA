@@ -4,19 +4,19 @@ import { MicroLabel } from '@/app/components/ui/MicroLabel';
 const features = [
   {
     title: 'Authority Content Systems',
-    description: 'Structured AI-assisted publishing engines that build credibility instead of noise.',
+    description: 'AI-assisted editorial engines that produce high-volume and credibility-first content.',
     icon: 'network',
     isPrimary: true
   },
   {
     title: 'AI-Assisted Production',
-    description: 'Custom AI spokespersons trained from real people, used to produce consistent content at scale.',
+    description: 'Personalised AI presenters built from real people, enabling consistent, on-brand video content for authentic audiences.',
     icon: 'avatar',
     isPrimary: false
   },
   {
     title: 'Video & Visual Systems',
-    description: 'High-volume AI video creation with controlled messaging, not generic automation.',
+    description: 'Controlled AI video production with precise messaging built for digital platforms, not generic automation.',
     icon: 'video',
     isPrimary: false
   }
@@ -33,14 +33,14 @@ export function AIContentSection() {
           className="text-center mb-10"
         >
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-8 leading-tight">
-            Content at Machine Scale
+            Lead the Conversation 
             <br />
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Without Losing Authority
+              in Your Market.
             </span>
           </h2>
           <p className="text-2xl md:text-3xl lg:text-4xl text-[#94A3B8] max-w-5xl mx-auto leading-relaxed">
-            High-volume content systems built for credibility, not noise.
+            Content infrastructure that makes your brand the most visible and most trusted voice in your market.
           </p>
         </motion.div>
 

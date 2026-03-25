@@ -10,44 +10,44 @@ interface FAQItem {
 
 const faqs: FAQItem[] = [
   {
-    question: 'What services does Mélange Digital provide for businesses in Lusaka',
-    answer: 'Mélange Digital provides full-service marketing for Lusaka companies, including SEO, Google Ads management, social media marketing, influencer campaigns, content production, video, branding, web development, and conversion optimization.',
+    question: 'What digital marketing services does Mélange Digital offer to businesses in Zambia, Africa?',
+    answer: "Mélange Digital delivers a complete range of digital marketing services for Zambia, African businesses, spanning SEO, Google Ads, social media marketing, influencer campaigns, content production, video, branding, web development, and conversion optimisation, tailored to the unique pace and diversity of Africa's emerging digital economy.",
   },
   {
-    question: 'Do you offer SEO services to rank on Google in Lusaka',
-    answer: 'Yes. Our Lusaka-focused SEO services improve search visibility through technical SEO, high-intent content, on-page structure, and local relevance signals across Zambia.',
+    question: 'Do you manage Google Ads campaigns for businesses in Zambia, Africa?',
+    answer: 'Yes. We build and manage performance-driven Google Ads campaigns for Zambia, African businesses across Search, YouTube, Display, and remarketing, engineered for measurable ROI in markets where digital ad spend is growing faster than any other region globally.',
   },
   {
-    question: 'Do you manage Google Ads campaigns in Lusaka',
-    answer: 'Yes. We run high-intent Google Ads campaigns for Lusaka businesses across Search, YouTube, Display, and remarketing, built for measurable ROI.',
+    question: 'Can you support social media marketing and influencer campaigns in Zambia, Africa?',
+    answer: 'Yes. We develop social media strategies and influencer marketing campaigns tailored to Zambia, African audiences, across Instagram, YouTube, LinkedIn, Facebook, and TikTok, with particular expertise in market-specific platform behavior.',
   },
   {
-    question: 'Can you support social media marketing and influencer campaigns in Lusaka',
-    answer: 'Yes. We build social media strategy and influencer marketing campaigns for Lusaka audiences across Instagram, TikTok, YouTube, and LinkedIn.',
+    question: 'Do you produce video content and AI-driven marketing assets for African markets?',
+    answer: "Yes. Mélange Digital produces premium video, short-form creative, AI avatars, and scalable content systems built for Zambia, Africa's mobile-first, data-conscious audiences, where video consumption is surging, but production budgets demand smart, efficient content solutions.",
   },
   {
-    question: 'Do you produce video content and AI-driven marketing assets',
-    answer: 'Yes. Mélange Digital produces premium video, short-form creative, AI avatars, and scalable content systems designed for authority and modern discovery.',
+    question: 'What is Answer Engine Optimisation and why does it matter for Zambia, African businesses?',
+    answer: 'Answer Engine Optimisation positions your brand inside AI-driven search tools like ChatGPT, Gemini, and Perplexity, not just traditional Google results. For Zambia, African businesses, this represents a rare first-mover opportunity: AI search adoption is accelerating rapidly across the continent, and brands that invest in AEO now will establish authority before their competitors even recognise the shift.',
   },
   {
-    question: 'What is Answer Engine Optimization and why does it matter in Lusaka',
-    answer: 'Answer Engine Optimization helps brands appear in AI-driven search results like ChatGPT, Gemini, and Perplexity, alongside traditional Google rankings, which is increasingly important in Lusaka\'s competitive market.',
+    question: 'Do you provide website development and conversion optimization for Zambia, African businesses?',
+    answer: 'Yes. We design and develop high-converting websites and landing pages built for the Zambian, African market conditions, including mobile-first performance, fast load speeds for variable connectivity environments, and conversion pathways optimised for local customer acquisition.',
   },
   {
-    question: 'Do you provide website development and conversion optimization',
-    answer: 'Yes. We design and build high-converting websites and landing pages optimized for Lusaka traffic, lead capture, and premium customer acquisition.',
+    question: 'What industries does Mélange Digital work with across Zambia, Africa?',
+    answer: "Mélange Digital supports businesses across tourism and hospitality, real estate, healthcare, e-commerce, agriculture, mining, professional services, fintech, and government-facing sectors,  industries that are central to Zambia, Africa's digital transformation and economic growth story.",
   },
   {
-    question: 'What industries do you work with in Lusaka and Zambia',
-    answer: 'We support businesses across real estate, hospitality, healthcare, ecommerce, tourism, professional services, and government-facing sectors that require serious visibility and growth.',
+    question: 'Why should Zambia, African businesses choose Mélange Digital as their digital marketing agency?',
+    answer: "Mélange Digital brings global campaign expertise combined with a genuine understanding of Zambia, Africa's diverse, fast-evolving digital markets. From navigating multi-country audience targeting to producing culturally relevant content across different Zambian regions, their integrated approach delivers measurable growth for businesses ready to lead in Zambia, Africa's digital future.",
   },
   {
-    question: 'How do companies choose the best marketing agency in Lusaka',
-    answer: 'Look for proven SEO expertise, profitable paid media execution, strong creative output, transparent reporting, and real market understanding in Zambia.',
+    question: 'What is the best way for an Zambia, African business to start with Mélange Digital?',
+    answer: 'Begin with a focused strategy call where Mélange Digital maps your current digital presence, identifies the highest-opportunity markets within Zambia, Africa, for your business, and builds a growth roadmap aligned with your industry, audience, and regional expansion goals.',
   },
   {
-    question: 'What is the best way to start with Mélange Digital',
-    answer: 'The first step is a short strategy call, followed by a structured growth roadmap tailored for Lusaka demand.',
+    question: 'What is the best way for an Zambia, African business to start with Mélange Digital?',
+    answer: 'Begin with a focused strategy call where Mélange Digital maps your current digital presence, identifies the highest-opportunity markets within Zambia, Africa, for your business, and builds a growth roadmap aligned with your industry, audience, and regional expansion goals.',
   },
 ];
 
@@ -124,7 +124,8 @@ export function LusakaFAQSection() {
             className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight"
           >
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Lusaka Growth Questions,
+              Africa Raises Questions,
+
             </span>{' '}
             <span className="text-black">Answered</span>
           </motion.h2>

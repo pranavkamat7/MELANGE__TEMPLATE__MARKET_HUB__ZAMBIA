@@ -44,7 +44,7 @@ export function InfrastructureRevealSection() {
                 Growth Is Not a Campaign.
               </h2>
               <h2 className="leading-[1.1] tracking-tight block text-[44px] md:text-[56px] lg:text-[72px] font-bold">
-                It Is <h2 className="leading-[1.1] tracking-tight text-[44px] md:text-[56px] lg:text-[72px] font-bold bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">Infrastructure.</h2>
+                It Is <h2 className="leading-[1.1] tracking-tight text-[44px] md:text-[56px] lg:text-[72px] font-bold bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">Architecture.</h2>
               </h2>
             </h2>
           </motion.div>
@@ -58,7 +58,7 @@ export function InfrastructureRevealSection() {
             className="flex flex-col gap-8 text-center lg:text-left items-center lg:items-start"
           >
             <p className="text-[20px] md:text-[24px] lg:text-[26px] leading-[1.5] text-[#D4DBE8] max-w-[480px]">
-              We architect compounding growth systems across all digital marketing agency services: paid, search, AI discovery, creative, and automation, engineered for scale and longevity in the Africa.
+              We build compounding growth systems across paid search, organic authority, AI discovery, creative production, and automation, engineered for the pace and potential of African markets.
             </p>
 
             {/* Pill tags */}
