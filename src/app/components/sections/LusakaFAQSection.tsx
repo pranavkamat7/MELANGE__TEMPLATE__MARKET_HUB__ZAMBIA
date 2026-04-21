@@ -124,7 +124,7 @@ export function LusakaFAQSection() {
             className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight"
           >
             <span className="bg-gradient-to-r from-[#D540FF] via-[#7F4EFF] to-[#3858FF] bg-clip-text text-transparent">
-              Africa Raises Questions,
+              Growth Questions
 
             </span>{' '}
             <span className="text-black">Answered</span>
